@@ -1,1 +1,1 @@
-# project2
+this is the landing page project
